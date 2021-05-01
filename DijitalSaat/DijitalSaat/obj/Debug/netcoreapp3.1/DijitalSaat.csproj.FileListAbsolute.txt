@@ -1,0 +1,16 @@
+C:\Users\OMEROZ\source\repos\DijitalSaat\DijitalSaat\bin\Debug\netcoreapp3.1\DijitalSaat.exe
+C:\Users\OMEROZ\source\repos\DijitalSaat\DijitalSaat\bin\Debug\netcoreapp3.1\DijitalSaat.deps.json
+C:\Users\OMEROZ\source\repos\DijitalSaat\DijitalSaat\bin\Debug\netcoreapp3.1\DijitalSaat.runtimeconfig.json
+C:\Users\OMEROZ\source\repos\DijitalSaat\DijitalSaat\bin\Debug\netcoreapp3.1\DijitalSaat.runtimeconfig.dev.json
+C:\Users\OMEROZ\source\repos\DijitalSaat\DijitalSaat\bin\Debug\netcoreapp3.1\DijitalSaat.dll
+C:\Users\OMEROZ\source\repos\DijitalSaat\DijitalSaat\bin\Debug\netcoreapp3.1\DijitalSaat.pdb
+C:\Users\OMEROZ\source\repos\DijitalSaat\DijitalSaat\obj\Debug\netcoreapp3.1\DijitalSaat.csprojAssemblyReference.cache
+C:\Users\OMEROZ\source\repos\DijitalSaat\DijitalSaat\obj\Debug\netcoreapp3.1\DijitalSaat.csproj.GenerateResource.cache
+C:\Users\OMEROZ\source\repos\DijitalSaat\DijitalSaat\obj\Debug\netcoreapp3.1\DijitalSaat.AssemblyInfoInputs.cache
+C:\Users\OMEROZ\source\repos\DijitalSaat\DijitalSaat\obj\Debug\netcoreapp3.1\DijitalSaat.AssemblyInfo.cs
+C:\Users\OMEROZ\source\repos\DijitalSaat\DijitalSaat\obj\Debug\netcoreapp3.1\DijitalSaat.csproj.CoreCompileInputs.cache
+C:\Users\OMEROZ\source\repos\DijitalSaat\DijitalSaat\obj\Debug\netcoreapp3.1\DijitalSaat.dll
+C:\Users\OMEROZ\source\repos\DijitalSaat\DijitalSaat\obj\Debug\netcoreapp3.1\DijitalSaat.pdb
+C:\Users\OMEROZ\source\repos\DijitalSaat\DijitalSaat\obj\Debug\netcoreapp3.1\DijitalSaat.genruntimeconfig.cache
+C:\Users\OMEROZ\source\repos\DijitalSaat\DijitalSaat\obj\Debug\netcoreapp3.1\DijitalSaat.D.resources
+C:\Users\OMEROZ\source\repos\DijitalSaat\DijitalSaat\obj\Debug\netcoreapp3.1\DijitalSaat.Properties.Resources.resources
